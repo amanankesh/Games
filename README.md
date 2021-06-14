@@ -1,2 +1,1 @@
-# amto-aka
-games
+# games
